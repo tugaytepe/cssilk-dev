@@ -1,0 +1,29 @@
+/************************ Layout ***********************/
+ol,li{color:#186a3b}
+h1,h2,h3,h4,h5,h6{
+    color:#186a3b
+}
+body{
+    background-color: #283747;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans Display', sans-serif;
+    margin:0 auto;text-align:center; width:960px;
+    color:silver
+
+}
+
+    
+p{color: #85929e;}
+header{
+    color:#186a3b;
+    background-color:#85929e;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-30{
+    font-size: 30px;
+}
+.fs-40{
+    font-size: 40px;
+}
